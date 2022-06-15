@@ -1,4 +1,4 @@
-# Abu Dhabi Property Market Dashboard
+# UAE Property Market Dashboard
 
 1. crawling data from the most popular property search/sale websites, with a real-time scanning style
 
